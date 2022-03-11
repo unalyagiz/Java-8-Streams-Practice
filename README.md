@@ -1,1 +1,1 @@
-﻿# Java8 Streams Practive
+﻿# Java8 Streams Practice
